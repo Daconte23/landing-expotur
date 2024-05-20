@@ -1,1 +1,1 @@
-A simple HTML/JS/CSS starter template
+Lnding tipo beacons para Expotur
