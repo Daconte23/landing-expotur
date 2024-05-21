@@ -25,6 +25,7 @@
 </div>
 
 ###
+<hr>
 
 <div align="left">
   <img src="para-readme/iPhone 14 Pro-1716329850397.jpeg" width="200">
