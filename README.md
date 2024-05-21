@@ -27,9 +27,9 @@
 ###
 
 <div align="left">
-  <img src="para-readme/iPhone 14 Pro-1716329850397.jpeg">
-  <img src="para-readme/iPad-1716329850483.jpeg">
-  <img src="para-readme/MacBook Pro-1716329850427.jpeg">
+  <img src="para-readme/iPhone 14 Pro-1716329850397.jpeg width" width="100">
+  <img src="para-readme/iPad-1716329850483.jpeg" width="100">
+  <img src="para-readme/MacBook Pro-1716329850427.jpeg" width="100">
 </div>
 
 ###
