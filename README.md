@@ -1,1 +1,1 @@
-Lnding tipo beacons para Expotur
+Landing tipo beacons para Expotur
