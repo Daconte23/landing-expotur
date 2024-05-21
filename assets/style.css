@@ -16,7 +16,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-image: url(/assets/ciudad-perdida.jpg);
+    background-image: url("ciudad-perdida.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
